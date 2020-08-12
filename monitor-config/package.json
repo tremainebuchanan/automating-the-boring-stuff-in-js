@@ -1,0 +1,14 @@
+{
+  "name": "monitor-switch",
+  "version": "1.0.2",
+  "description": "Linux command line utility switching between primary and secondary displays",
+  "main": "index.js",
+  "scripts": {
+    "start": "./index.js"
+  },
+  "bin": {
+    "monitor-switch": "./index.js"
+  },
+  "author": "Tremaine Buchanan <tremainekbuchanan@gmail.com>",
+  "license": "ISC"
+}
